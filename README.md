@@ -3,8 +3,16 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <iframe src="https://drive.google.com/file/d/1NPbcjXDJdhRelX1FcJSFYfwz47EMQzVA/preview" width="640" height="480"></iframe>
-
+ 
+<div class="embed-container">
+  <iframe
+      width="640"
+      height="480"
+      src="https://drive.google.com/file/d/1NPbcjXDJdhRelX1FcJSFYfwz47EMQzVA/view?usp=sharing"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 </body>
 </html>
 
