@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1NPbcjXDJdhRelX1FcJSFYfwz47EMQzVA/view?usp=sharing" ></iframe>
+  <iframe src="https://drive.google.com/file/d/1NPbcjXDJdhRelX1FcJSFYfwz47EMQzVA/preview" width="640" height="480"></iframe>
 
 </body>
 </html>
