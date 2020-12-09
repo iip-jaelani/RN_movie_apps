@@ -8,4 +8,10 @@
 - `react-native run-android` to start
 - NB: iOS don't test :)
 
-![Screenrecorder-2020](https://drive.google.com/file/d/1NPbcjXDJdhRelX1FcJSFYfwz47EMQzVA/view?usp=sharing)
+<!DOCTYPE html>
+<html>
+<body>
+    <iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1NPbcjXDJdhRelX1FcJSFYfwz47EMQzVA/view?usp=sharing" ></iframe>
+
+</body>
+</html>
