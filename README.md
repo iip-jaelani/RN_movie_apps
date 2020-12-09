@@ -7,3 +7,5 @@
 - `npm install` to install all required dependencies
 - `react-native run-android` to start
 - NB: iOS don't test :)
+
+![Screenrecorder-2020](https://drive.google.com/file/d/1NPbcjXDJdhRelX1FcJSFYfwz47EMQzVA/view?usp=sharing)
