@@ -1,20 +1,6 @@
 # Getting started
 
-<!DOCTYPE html>
-<html>
-<body>
- 
-<div class="embed-container">
-  <iframe
-      width="640"
-      height="480"
-      src="https://drive.google.com/file/d/1NPbcjXDJdhRelX1FcJSFYfwz47EMQzVA/view?usp=sharing"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
-</body>
-</html>
+![Group 1](https://user-images.githubusercontent.com/36758965/101615597-e341f280-3a40-11eb-9a55-e10f449c4942.png)
 
 - Clone this repo
 - `git clone https://github.com/iipzay123/RN_movie_apps.git` to cloning repo
